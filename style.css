@@ -1,0 +1,215 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+/*navbar*/
+.navbar .container svg {
+    height: 60px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.navbar .logo {
+    display: flex;
+}
+
+.navbar .container .logo h3 {
+    margin-top: 13px;
+}
+
+.navbar .nav .nav-link {
+    color: black;
+    font-size: 19px;
+
+}
+
+.navbar .nav .nav-link:hover {
+
+    box-shadow: rgba(128, 125, 125, 0.35) 0px 5px 15px;
+}
+
+
+
+
+
+/*video*/
+.banner {
+    width: 100%;
+    padding:0%;
+  
+}
+
+.banner .row .col-lg-8 video
+{
+width: 100%;
+
+}
+
+
+.banner .col-lg-4 .banner-h
+{
+background-color: rgb(33, 37, 41);
+height: 100%;
+color: white;
+padding: 16px;
+
+}
+
+.ban-h
+{
+   
+    margin-top: 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-fluid .container .col h3 
+{
+    margin-top: 30px;
+}
+
+.col .product1
+{
+    height: 40px;
+    width: 80px;
+    border-radius:19px;
+
+    font-weight:600;
+    background-color: #98c8f8;
+}
+
+
+
+
+
+/*get to know iphone*/
+.album {
+    width: 100%;
+}
+
+.container {
+    flex-wrap: wrap;
+
+}
+
+.container h1 {
+    margin-bottom: 25px;
+    font-size: 50;
+    margin-top: 40px;
+}
+
+.container .photo {
+    height: 400px;
+    width: 100%;
+}
+
+
+
+
+
+
+/*features*/
+.container h1
+{
+    margin-top: 40px;
+}
+.container .col
+{
+    text-align: center;
+}
+
+.container .row
+{
+    margin:50px;
+}
+
+
+
+/*why apple is the best to buy phone*/
+.best {
+    flex-wrap: wrap;
+}
+
+.best .container .col
+{
+    margin-top: 30px;
+    
+}
+
+
+
+
+
+
+
+
+/*essentials*/
+.essentials h1 {
+   
+    font-weight: 600;
+    font-size: 55;
+}
+
+.essentials .cards {
+    display: flex;
+}
+
+.essentials .mag-card {
+    height: 600px;
+    width: 570px;
+    background-color: rgb(247, 247, 253);
+    border-radius: 40px;
+    overflow: hidden;
+    
+    margin-top: 50px;
+}
+
+.essentials .mag-card img {
+    width: 700px;
+    margin-top: 70px;
+    margin-left: -60px;
+}
+
+.essentials .mag-card h3,
+
+p {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.essentials .air-card {
+    height: 600px;
+    width: 570px;
+    background-color: rgb(247, 247, 253);
+    border-radius: 40px;
+    overflow: hidden;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+
+
+.essentials .air-card img {
+    width: 700px;
+    margin-top: 70px;
+    margin-left: -60px;
+}
+
+.essentials .air-card h3,
+p {
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+
+.footer 
+{
+
+    background-color: #f5f5f5;
+    
+}
